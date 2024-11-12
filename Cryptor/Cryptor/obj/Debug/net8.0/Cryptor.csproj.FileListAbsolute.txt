@@ -1,0 +1,14 @@
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/bin/Debug/net8.0/Cryptor
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/bin/Debug/net8.0/Cryptor.deps.json
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/bin/Debug/net8.0/Cryptor.runtimeconfig.json
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/bin/Debug/net8.0/Cryptor.dll
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/bin/Debug/net8.0/Cryptor.pdb
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/obj/Debug/net8.0/Cryptor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/obj/Debug/net8.0/Cryptor.AssemblyInfoInputs.cache
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/obj/Debug/net8.0/Cryptor.AssemblyInfo.cs
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/obj/Debug/net8.0/Cryptor.csproj.CoreCompileInputs.cache
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/obj/Debug/net8.0/Cryptor.dll
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/obj/Debug/net8.0/refint/Cryptor.dll
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/obj/Debug/net8.0/Cryptor.pdb
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/obj/Debug/net8.0/Cryptor.genruntimeconfig.cache
+/Users/sarpinmacbookprosu/RiderProjects/Cryptor/Cryptor/obj/Debug/net8.0/ref/Cryptor.dll
